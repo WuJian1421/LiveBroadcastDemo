@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="videoTitle">
+        <item>CCTV-1高清</item>
+        <item>CCTV-2高清</item>
+        <item>CCTV-3高清</item>
+        <item>CCTV-4高清</item>
+        <item>CCTV-5高清</item>
+        <item>CCTV-6高清</item>
+    </string-array>
+
+    <string-array name="videoUrl">
+        <item>http://ivi.bupt.edu.cn/player.html?channel=cctv1hd</item>
+        <item>http://ivi.bupt.edu.cn/player.html?channel=cctv2hd</item>
+        <item>http://ivi.bupt.edu.cn/player.html?channel=cctv3hd</item>
+        <item>http://ivi.bupt.edu.cn/player.html?channel=cctv4hd</item>
+        <item>http://ivi.bupt.edu.cn/player.html?channel=cctv5hd</item>
+        <item>http://ivi.bupt.edu.cn/player.html?channel=cctv6hd</item>
+    </string-array>
+</resources>
